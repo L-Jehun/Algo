@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
-
+//https://so-cute-danu-dev.tistory.com/9를 참고하여 공부하였습니다.
 public class Solution {
 	static class Core {
 		int y, x;
